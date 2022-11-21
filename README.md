@@ -1,7 +1,10 @@
-<h1 align="center"><img src="https://media.tenor.com/GqAwMt01UXgAAAAi/cd.gif" width="30px"> TiTan Music Bot <img src="https://media.tenor.com/GqAwMt01UXgAAAAi/cd.gif" width="30px"></h1>
+<h1 align="center"><img src="https://media.tenor.com/GqAwMt01UXgAAAAi/cd.gif" width="30px"> TiTan <img src="https://media.tenor.com/GqAwMt01UXgAAAAi/cd.gif" width="30px"></h1>
 > Note: Lavalink not needed for music functionality :)
 
-# TiTan 𝄞
+# Discord Music Bot 𝄞
+
+<a href="https://ibb.co/2Y2wxn7"><img src="https://i.ibb.co/qFGzKyM/coollogo-com-9826435.png" alt="coollogo-com-9826435" border="0"></a>
+
 ### 💨 Run the project's
 Make sure to install node16 +
 Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/xzendercage/titan)
