@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./assets/logo.gif" width="30px"> TiTan Music Bot <img src="./assets/logo.gif" width="30px"></h1>
+<h1 align="center"><img src="https://media.tenor.com/GqAwMt01UXgAAAAi/cd.gif" width="30px"> TiTan Music Bot <img src="https://media.tenor.com/GqAwMt01UXgAAAAi/cd.gif" width="30px"></h1>
 > Note: Lavalink not needed for music functionality :)
 
 # TiTan 𝄞
